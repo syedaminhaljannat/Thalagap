@@ -1,1 +1,11 @@
 
+mutation_legacy,mutation_hgvs,region_or_ethnicity,n_alleles,total_n_in_group,frequency_pct,panel_tier,clinvar_status,source_short,source_full,notes
+IVS1-5 (G>C),HBB:c.92+5G>C,Sindhi,134,TBD,TBD,common_panel,TBD - check ClinVar,Ansari et al.,"Molecular epidemiology of beta-thalassemia in Pakistan: far reaching implications",Fill total_n_in_group from the paper's ethnic-group sample size table then compute frequency_pct
+IVS1-5 (G>C),HBB:c.92+5G>C,Baloch,60,TBD,TBD,common_panel,TBD - check ClinVar,Ansari et al.,"Molecular epidemiology of beta-thalassemia in Pakistan: far reaching implications",
+IVS1-5 (G>C),HBB:c.92+5G>C,Pathan,19,TBD,TBD,common_panel,TBD - check ClinVar,Ansari et al.,"Molecular epidemiology of beta-thalassemia in Pakistan: far reaching implications",
+FSC 8/9 (+G),HBB:c.27_28insG,Pathan,TBD,TBD,TBD,common_panel,TBD - check ClinVar,Yasmeen/Karak studies,"Paper #3 + Karak region study - Fr8-9 especially prevalent among Pathan families",Cross-check exact count from paper
+Fr 41/42 (-TTCT),HBB:c.126_129delCTTT,KP region,TBD,TBD,TBD,common_panel,TBD - check ClinVar,Charsadda/Karak studies,"District Charsadda and Karak studies",
+IVS1-1 (G>T),HBB:c.92+1G>T,National,TBD,TBD,TBD,common_panel,TBD - check ClinVar,Khan & Riazuddin 1998,"Molecular characterization of beta-thalassemia in Pakistan",One of the 5 mutations in the standard ARMS-PCR kit
+Codon 15 (G>A),HBB:c.47G>A,Karak KP,TBD,TBD,TBD,common_panel,TBD - check ClinVar,Karak region study,"Molecular heterogeneity Thalassemia Karak",
+Del 619 bp,HBB:c.-137_*233del,National,TBD,TBD,TBD,common_panel,TBD - check ClinVar,Multiple studies,"619 bp deletion - one of the classic 5",
+HBB:c.136delT (novel),HBB:c.136delT,National - rare/novel,TBD,8716,TBD,NOT in standard panel,TBD - check ClinVar,"Rare beta-Globin Gene Mutations in Pakistan","Identified via sequencing in patients uncharacterized by standard ARMS-PCR",This is your key 'gap' example - add every rare/novel mutation from Paper 4 and Paper 5 here
